@@ -1,4 +1,8 @@
-# digitalCurrency (digital spend of Reserve Bank currency) 
+# digitalCurrency (digital spend of Reserve Bank currency).
+
+Purpose: currency as an enabler og economic activities Esther than a participant, in order to sustain productivity and remove waste. 
+
+Problem statement: Backhaul; or Storage and transport ressource use.
 
 Implement
 5G slice
@@ -9,7 +13,14 @@ Array
 ++1
 Mirror;; secret
 
+Full dataset array; photographic negative (inverse)
+
 GUIs
 ATM
 Till
 glyph
+
+6G:
+Reserved network Slice.
+MMS each file.
+   -dependency to resolve clone issue.
