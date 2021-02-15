@@ -13,7 +13,9 @@ Array
 ++1
 Mirror;; secret
 
+Virtualize currency
 Full dataset array; photographic negative (inverse)
+For agnostic and independent operation whole transition to digital completes.
 
 GUIs
 ATM
