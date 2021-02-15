@@ -24,5 +24,5 @@ glyph
 
 6G:
 Reserved network Slice.
-MMS each file.
-   -dependency to resolve clone issue.
+MMS each file. Exclusive forward function. IP address basis.
+   -dependency to resolve clone issue. Dependency on minimum universal hardware specification. 
