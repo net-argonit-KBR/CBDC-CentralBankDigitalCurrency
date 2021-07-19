@@ -2,7 +2,7 @@
 
 Purpose: currency as an enabler og economic activities Esther than a participant, in order to sustain productivity and remove waste. 
 
-Problem statement: Backhaul; or Storage and transport ressource use.
+Problem statement: PHY Storage. PHY Transport ressource use. Hygiene. Geotemporal form factor, i.e. the machine only takes small denomination notes, the market seller gives a second item instead of change, the electronic payment system is offline (rare).
 
 Implement
 5G slice
