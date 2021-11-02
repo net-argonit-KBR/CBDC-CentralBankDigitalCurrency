@@ -1,4 +1,4 @@
-# digitalCurrency (digital spend of Reserve Bank currency).
+# Central Bank Digital Currency (Reserve Bank Digital Currency; Reserve Bank Virtual Currency).
 
 Purpose: currency as an enabler of economic activities rather than a participant, in order to sustain productivity and remove waste. 
 
