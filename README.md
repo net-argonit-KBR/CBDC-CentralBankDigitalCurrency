@@ -31,5 +31,9 @@ Isssue: clone.
 Constraint: 5G chips, if the largest factory makes 1.5M per year and represents 50%; AND the average life of a smartphone is 3 years, then maximum market size is 9M Users
 Dependency on minimum universal hardware specification.
 
+ALTERNATE SYSTEM OF RECORD
+Cash account
+Planned - with purchase order number and invoice. Purchase of a denomination generates reference.
+Inland Revenue account with all organizations and individuals implements, for example, Xero Money with multiple payment term options 
 
 // in the event of an urgent need for the name of this repository, please reach out with a proposal.
